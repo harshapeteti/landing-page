@@ -22,7 +22,7 @@ const HeroSection = () => {
                 </a>
             </div>
             <div className="flex flex-row mt-10 justify-center ">
-                <img src={background} alt="background" className="mx-2 my-4 "/>   
+                <img src={background} alt="background" className="mx-2 "/>   
             </div>
             {/* <div className="flex  mt-10 justify-center ">
                 <img src={background} alt="background" className="mx-2 my-4 "/>   
